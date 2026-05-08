@@ -47,7 +47,7 @@ I am motivated to keep growing as a software engineer, solve meaningful technica
 | Project | Description | Stack |
 |---|---|---|
 | [AirInput](https://github.com/danielchani/AirInput) | Control your desktop with hand gestures via webcam — 15 gestures, Kalman-filter cursor smoothing, live dashboard | Python, MediaPipe, OpenCV |
-| [Election DApp](https://github.com/danielchani/Election) | Decentralized voting system with end-to-end voter encryption, key generation, and real-time admin dashboard | Solidity, JavaScript, Web3.js |
+| [Election Blockchain](https://github.com/danielchani/ElectionBlockchain) | Decentralized voting system with end-to-end voter encryption, key generation, and real-time admin dashboard | Solidity, JavaScript, Web3.js |
 | [Secure Web Application](https://github.com/danielchani/SecureCodingProject) | Full-stack web app with hardened auth, parameterized queries, and input validation against OWASP top vulnerabilities | Python, Flask, MySQL |
 | [Maze Solver](https://github.com/danielchani/MazeSolver) | Pluggable BFS/DFS solver in a modular client/server architecture, packaged as a reusable JAR with >90% unit test coverage | Java |
 
