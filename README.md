@@ -5,10 +5,6 @@ I am motivated to keep growing as a software engineer, solve meaningful technica
 
 ---
 
-Website: [![Portfolio](https://img.shields.io/badge/Portfolio-danielchani.com-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://danielchani.com/)     
-          Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-chani-a336bb287/)          
-Mail: [![Email](https://img.shields.io/badge/Email-chanidaniel999@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chanidaniel999@gmail.com)
-
 ---
 
 ## Tech Stack
@@ -60,3 +56,5 @@ Mail: [![Email](https://img.shields.io/badge/Email-chanidaniel999@gmail.com-D148
 
 [![Email](https://img.shields.io/badge/chanidaniel999@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chanidaniel999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-chani-a336bb287/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danielchani.com-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://danielchani.com/)
+
